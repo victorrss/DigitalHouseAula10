@@ -11,5 +11,5 @@ fun main() {
 
     val alunoMaria = Aluno("Maria", 1)
 
-    println("O aluno de nome ${alunoMaria.nome} ${if (alunos.contains(alunoMaria)) "está" else "não está"} na lista")
+    println("\n\nO aluno de nome ${alunoMaria.nome} ${if (alunos.contains(alunoMaria)) "está" else "não está"} na lista")
 }
