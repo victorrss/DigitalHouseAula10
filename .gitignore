@@ -1,3 +1,8 @@
+.DS_Store
+.idea
+/out/
+/lib/
+
 # Compiled class file
 *.class
 
