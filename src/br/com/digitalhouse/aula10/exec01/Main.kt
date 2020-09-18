@@ -1,6 +1,4 @@
-package br.com.digitalhouse.aula10
-
-import br.digitial.com.aula10.br.com.digitalhouse.aula10.Pessoa
+package br.com.digitalhouse.aula10.exec01
 
 fun main() {
     val p1 = Pessoa("Lucas", 3245)

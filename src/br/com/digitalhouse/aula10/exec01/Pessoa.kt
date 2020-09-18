@@ -1,4 +1,4 @@
-package br.digitial.com.aula10.br.com.digitalhouse.aula10
+package br.com.digitalhouse.aula10.exec01
 
 class Pessoa(val nome: String, val rg: Int) {
     override fun equals(other: Any?): Boolean {
